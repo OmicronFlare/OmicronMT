@@ -1,0 +1,6 @@
+colorama
+asyncio
+fade
+requests
+discord
+uuid
