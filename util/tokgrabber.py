@@ -7,7 +7,7 @@ def grabbing():
     sf = f"Omicron_{UI}.py"
     ef = f"Omicron_{UI}.exe"
 
-    shutil.copy("maker.py", sf)
+    shutil.copy("util/maker.py", sf)
     with open(sf, "r+", encoding="utf-8") as f:
         content = f.read()
         f.seek(0,0)
