@@ -4,3 +4,4 @@ fade
 requests
 discord
 uuid
+pyinstaller
